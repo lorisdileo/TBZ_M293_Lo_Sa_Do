@@ -1,0 +1,3 @@
+Beim Markieren des Textes und beim öffnen des DevTools, zeigt es
+
+mir den dem Markierten Text beim Code an.

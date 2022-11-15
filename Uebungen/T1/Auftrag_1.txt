@@ -1,0 +1,7 @@
+Als man den DevTool öffnet und auf Network geht, sieht
+
+man alle Files die geladen wurden. Wenn man etwas verändert,
+
+werden nur die Sachen geladen, die man verändert hat.
+
+Alle anderen Sachen werden nicht neu geladen.
