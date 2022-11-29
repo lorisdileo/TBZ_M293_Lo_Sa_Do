@@ -1,0 +1,4 @@
+1: Erfinder von HTML Tim Berners-Lee
+
+2: Docktyp ist kein Tag und gibt Informationen am Broser weiter wie das Dokument 
+dargestellt werden sollte.
