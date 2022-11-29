@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'bold';
+    src: url('/OpenSans-ExtraBold1.ttf');
+}
+
+h1 {
+    font-size: 8cm;
+}
+
+.gigi {
+    font-size: 3cm;
+    font-family: "bold";
+}
+
+.pele {
+    font-size: 3cm;
+    font-family: "bold";
+}
+
+.mara {
+    font-size: 3cm;
+    font-family: "bold";
+}
+
+.euse {
+    font-size: 3cm;
+    font-family: "bold";
+}
+
+.cruy {
+    font-size: 3cm;
+    font-family: "bold";
+}
