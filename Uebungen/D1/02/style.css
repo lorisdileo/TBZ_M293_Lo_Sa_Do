@@ -1,0 +1,27 @@
+*{
+    background-color: darkblue;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+    width: 80%;
+    background-color: orange;
+    padding: 50px;
+    overflow: hidden;
+}
+
+#one {
+    border: 20vh solid orangered;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: turquoise;
+    margin: 60px;
+    height: 60%;
+    width: 60%;
+    padding: 60px;
+
+}
