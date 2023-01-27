@@ -9,6 +9,23 @@ Wir wünschen Ihnene viel Spass auf unsere Webseite!!!
 
 
 Wireframes:
+
 ![Homepage](../Grundaufbau/Wireframe/home.jpg)
+Auf der ...
+
+
+
+![Modelle](../Grundaufbau/Wireframe/Modelle.jpg)
+
+
+
+
+![Kontakt](../Grundaufbau/Wireframe/kontakt.jpg)
+
+
+
+
+
+![About us](../Grundaufbau/Wireframe/aboutUs.jpg)
 
 
