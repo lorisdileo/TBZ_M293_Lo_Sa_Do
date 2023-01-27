@@ -11,6 +11,7 @@ Wir wünschen Ihnene viel Spass auf unsere Webseite!!!
 Wireframes:
 
 ![Homepage](../Grundaufbau/Wireframe/home.jpg)
+
 Auf der Hompage werdet Ihr von einer fantastischen Slideshow von uns überrascht.
 
 
