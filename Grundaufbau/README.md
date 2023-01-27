@@ -6,3 +6,9 @@ Ihr habt die Möglichkeit eine Slideshow anzuschauen, sowohl könnt ihr auch ver
 Sonst könnt Ihr noch bei Feedback/Fragen ein Kontaktformular ausfüllen und uns kontaktieren.
 
 Wir wünschen Ihnene viel Spass auf unsere Webseite!!!
+
+
+Wireframes:
+![Homepage](../Grundaufbau/Wireframe/home.jpg)
+
+
