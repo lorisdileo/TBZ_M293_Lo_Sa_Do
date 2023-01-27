@@ -11,21 +11,26 @@ Wir wünschen Ihnene viel Spass auf unsere Webseite!!!
 Wireframes:
 
 ![Homepage](../Grundaufbau/Wireframe/home.jpg)
-Auf der ...
+Auf der Hompage werdet Ihr von einer fantastischen Slideshow von uns überrascht.
 
 
 
 ![Modelle](../Grundaufbau/Wireframe/Modelle.jpg)
-
-
-
-
-![Kontakt](../Grundaufbau/Wireframe/kontakt.jpg)
-
-
-
+Auf der Modelle Seite sehr Ihr ein paar verschiedene Bugatti Modellen, die dann mit Informationen überseht sind.
 
 
 ![About us](../Grundaufbau/Wireframe/aboutUs.jpg)
+Auf der About us Seite sieht ihr die drei Entwickler der Seite und ein paar Informationen von uns.
+
+
+![Kontakt](../Grundaufbau/Wireframe/kontakt.jpg)
+Auf der Kontakt Seite habt Ihr die Möglichkeit uns ein Feedback oder ein Anliegen mitzuteilen.
+
+
+
+
+
+
+
 
 
