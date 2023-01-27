@@ -31,6 +31,10 @@ Auf der About us Seite sieht ihr die drei Entwickler der Seite und ein paar Info
 Auf der Kontakt Seite habt Ihr die Möglichkeit uns ein Feedback oder ein Anliegen mitzuteilen.
 
 
+
+
+
+
 **Styleguide**
 
 ![Farbschema](../Grundaufbau/Wireframe/Farbschema.jpg)
