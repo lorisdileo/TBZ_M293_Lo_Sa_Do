@@ -1,0 +1,16 @@
+.Logo{
+    height: 75px;
+    width:  150px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 125px;
+  }
+
+.voiture{
+    width: 600px;
+    height: 400px;
+    display: block; 
+    margin: auto;
+}

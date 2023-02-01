@@ -1,0 +1,38 @@
+.Logo{
+    height: 75px;
+    width:  150px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 125px;
+  }
+
+  .chiron {
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    margin-top: 300px;
+  }
+
+  .chirontext {
+    font-size: 0.9cm;
+    color: aliceblue;
+    opacity: 0.5;
+    margin-top: 300px;
+  }
+
+  .voiture {
+    float: right;
+    height: 300px;
+    width: 500px;
+    margin-top: 300px;
+  }
+
+  .voituretext {
+    font-size: 0.9cm;
+    color: aliceblue;
+    opacity: 0.5;
+    margin-top: auto;
+    margin-left: 400px;
+  }
