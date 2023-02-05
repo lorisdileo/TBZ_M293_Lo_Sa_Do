@@ -1,38 +1,45 @@
-.Logo{
-    height: 75px;
-    width:  150px;
+.Logo {
+  height: 75px;
+  width: 150px;
 }
 
 h1 {
-    text-align: center;
-    font-size: 125px;
-  }
+  text-align: center;
+  font-size: 125px;
+}
 
-  .chiron {
-    position: absolute;
-    height: 300px;
-    width: 500px;
-    margin-top: 300px;
-  }
+.chiron {
+  float: left;
+  position: absolute;
+  height: 300px;
+  width: 500px;
+  margin-top: 150px;
+  margin-left: 10px;
+}
 
-  .chirontext {
-    font-size: 0.9cm;
-    color: aliceblue;
-    opacity: 0.5;
-    margin-top: 300px;
-  }
+.chirontext {
+  float: left;
+  font-size: 0.9cm;
+  color: aliceblue;
+  opacity: 0.8;
+  margin-top: 150px;
+  position: absolute;
+  margin-left: 10px;
+}
 
-  .voiture {
-    float: right;
-    height: 300px;
-    width: 500px;
-    margin-top: 300px;
-  }
+.voiture {
+  float: right;
+  height: 300px;
+  width: 500px;
+  margin-top: 150px;
+  margin-right: 10px;
+}
 
-  .voituretext {
-    font-size: 0.9cm;
-    color: aliceblue;
-    opacity: 0.5;
-    margin-top: auto;
-    margin-left: 400px;
-  }
+.voituretext {
+  position: absolute;
+  font-size: 0.9cm;
+  color: aliceblue;
+  opacity: 0.8;
+  margin-left: 1000px;
+  margin-top: 150px;
+}
